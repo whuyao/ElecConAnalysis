@@ -47,7 +47,7 @@ By controlling the variables, the optimal decision tree tree and the maximum cha
 
 **Establish the power consumption model**
 
-基于随机森林算法，预训练得到电力消耗分布模型，并且返回训练的模型精度，影响因子的重要性排行等信息。
+Based on the random forest algorithm, the power consumption distribution model is pre-trained and returns information such as the accuracy of the trained model and the importance ranking of the influencing factors.
 
 
 
